@@ -17,4 +17,4 @@ Initial parts of my career was full of coding and not appreciating or understand
 
 ### Contact me
 
-[email@domain.com](mailto:shabin.hashim@gmail.com)
+[shabin.hashim@gmail.com](mailto:shabin.hashim@gmail.com)
